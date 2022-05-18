@@ -1,2 +1,4 @@
-Parkjeongsu 20223172
-Kookmin	Univ. Artificial Intelligence
+
+Kookmin Univ. AI
+
+ParkJeongSu 20223172
