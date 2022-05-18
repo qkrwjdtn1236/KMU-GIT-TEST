@@ -1,4 +1,4 @@
 
-Kookmin Univ. AI
+Kookmin Univ. AI Github
 
 ParkJeongSu 20223172
