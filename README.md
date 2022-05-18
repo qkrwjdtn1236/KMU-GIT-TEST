@@ -1,2 +1,2 @@
-20223172 Park JeongSu
+20223172   Park JeongSu
 Kookmin Univ. Artificial Intelligence
